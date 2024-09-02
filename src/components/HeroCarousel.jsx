@@ -6,7 +6,7 @@ const slides = [
     id: 1,
     image:
       "https://i.pinimg.com/736x/b6/5e/4b/b65e4b2ccfa2f8872d86725924add187.jpg",
-    text: "Celustius welcomes you!",
+    text: "Celestius welcomes you!",
     para: "Ever thought of joining a tech club that transcends making projects?",
     li1: "Competitions that make challenges your skills",
     li2: "Plans that'll make you excited",
