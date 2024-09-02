@@ -1,0 +1,18 @@
+.footer-container {
+    padding: 2rem;
+    background-color: #333;
+    text-align: center;
+    color: #fff;
+  }
+  
+  .social-links a {
+    margin: 0 1rem;
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .social-links a:hover {
+    color: #feb47b;
+  }
+  
